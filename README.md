@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zM4X4tXjNjiyUYfbxk/giphy.gif" width="400"/>
+</div>
 
-<!--
-**WilgelmFlower/WilgelmFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.instagram.com/wilhelmflower">
+    <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=red&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=WilgelmFlower&style=flat-square&color=blue" alt=""/>
+<h1>
+  WELCOME TO MY GITHUB LIFE
+  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="200px"/>
+</h1>
