@@ -19,7 +19,7 @@
 </div>
 ### :man_technologist: About Me :
 
-Nice to meet you!, my name is Mark and i'm IOS DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Nice to meet you!, my name is Mark and i'm IOS DEVELOPER from Russia.
 
 - :telescope: I'm working as IOS Developer :green_apple:
 
