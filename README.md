@@ -19,11 +19,11 @@
 </div>
 ### :man_technologist: About Me :
 
-Nice to meet you!, my name is Mark and i'm IOS DEVELOPER.
+Nice to meet you!, my name is Mark and i'm Senior iOS Engineer.
 
 - :telescope: I'm working as Senior iOS Engineer :green_apple:
 
-- :zap: In my free time, do sports and learning something new about development.
+- :zap: In my free time, do sports and learning something new about development and music.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
