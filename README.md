@@ -21,9 +21,7 @@
 
 Nice to meet you!, my name is Mark and i'm IOS DEVELOPER.
 
-- :telescope: I'm working as IOS Developer :green_apple:
-
-- :seedling: Exploring Swift everyday and improving my skills.
+- :telescope: I'm working as Senior iOS Engineer :green_apple:
 
 - :zap: In my free time, do sports and learning something new about development.
 ---
